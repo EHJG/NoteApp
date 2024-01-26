@@ -13,7 +13,3 @@ An edit section that provides you the option of delete, or just edit your note
 And a File section, where you can file notes for some reason
 
 ![image](https://github.com/ensolvers-github-challenges/Hernandez-f05077/assets/147026990/4b5255d2-d9ba-420b-b7f0-ea39ea747afa)
-
-Should running server on 
-
-![image](https://github.com/ensolvers-github-challenges/Hernandez-f05077/assets/147026990/41cd7f40-334c-4644-9a41-0b7e46b4204a)
